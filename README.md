@@ -1,2 +1,0 @@
-# StM-DemonList-
-TipiKALlist
